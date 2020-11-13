@@ -1,5 +1,5 @@
 echo " ==================================="
-echo " WARNING: Suicide-Zsh plugin running"
+echo " WARNING: suicide-zsh plugin running"
 echo "          (https://qntm.org/suicide)"
 echo " ==================================="
 
