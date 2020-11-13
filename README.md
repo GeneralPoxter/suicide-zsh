@@ -1,8 +1,8 @@
 # suicide-zsh
 
-suicide-zsh is a Z shell plugin for [Suicide Linux](https://github.com/tiagoad/suicide-linux)
+suicide-zsh is a Z shell plugin for tiagoad's [Suicide Linux](https://github.com/tiagoad/suicide-linux) on Docker
 
-Enjoy the terror of Suicide Linux on Zsh!
+Enjoy the ~~terror~~ joy of Suicide Linux on Zsh!
 
 ## Running
 ```
