@@ -5,11 +5,12 @@ suicide-zsh is a Z shell plugin for tiagoad's [Suicide Linux](https://github.com
 Enjoy the ~~terror~~ joy of Suicide Linux on Zsh!
 
 ## Running
+Local install:
 ```
 docker build . -t suicide-zsh
 docker run -it --rm suicide-zsh
 ``` 
-or 
+From DockerHub:
 ```
 docker run -it --rm evilmuffinha/suicide-zsh:latest
 ```
