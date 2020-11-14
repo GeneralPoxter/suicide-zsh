@@ -11,5 +11,5 @@ docker run -it --rm suicide-zsh
 ``` 
 or 
 ```
-docker pull evilmuffinha/suicide-zsh:latest
+docker run -it --rm evilmuffinha/suicide-zsh:latest
 ```
