@@ -8,4 +8,12 @@ Enjoy the ~~terror~~ joy of Suicide Linux on Zsh!
 ```
 docker build . -t suicide-zsh
 docker run -it --rm suicide-zsh
+``` 
+or 
+```
+docker pull evilmuffinha/suicide-zsh:latest
+``` 
+or 
+```
+docker pull evilmuffinha/suicide-zsh:unusable
 ```
