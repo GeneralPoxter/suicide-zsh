@@ -12,8 +12,4 @@ docker run -it --rm suicide-zsh
 or 
 ```
 docker pull evilmuffinha/suicide-zsh:latest
-``` 
-or 
-```
-docker pull evilmuffinha/suicide-zsh:unusable
 ```
